@@ -249,7 +249,7 @@ input: the array and it's size
 output: none*/
 void sortFileNames(char** arr, int size)
 {
-	char temp[PATH_MAX];
+	char temp[PATH_MAX]; // temporary string to hold for swap action.
 	for (int i = 0; i < size - 1; i++)
 	{
 		for (int j = 0; j < size - i - 1; j++) 
