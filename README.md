@@ -1,1 +1,1 @@
-A simple AntiVirus I built in Magshimim
+A AntiVirus in c -> identification of infected folders and files (finding the location of a virus signature) 
