@@ -1,0 +1,12 @@
+Welcome Anti-Virus began!
+
+Folder to scan: C:\magshimim\s2\week8\folderToCheck
+Virus signature: C:\magshimim\s2\week8\KittenVirusSign
+
+Scanning option:
+Quick Scan
+
+Results:
+C:\magshimim\s2\week8\folderToCheck/kitten_frog.jpg Infected! (last 20%)
+C:\magshimim\s2\week8\folderToCheck/kitten_run.jpg Clean!
+C:\magshimim\s2\week8\folderToCheck/myAntiVirusLog.txt Clean!
